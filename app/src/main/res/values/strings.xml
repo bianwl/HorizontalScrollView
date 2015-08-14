@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ASProjects</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="setting">设置</string>
+    <string name="exit">退出</string>
+    <string name="open_vip">开通会员</string>
+    <string name="qq_wallet">QQ钱包</string>
+    <string name="online_hall">网上营业厅</string>
+    <string name="qq_dress">个性装扮</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="my_photo">我的相册</string>
+    <string name="my_folder">我的文件夹</string>
+    <string name="qq">QQ</string>
+    <string name="qqName">龙飞凤舞</string>
+    <string name="qq_describe">雄关漫道真如铁，而今迈步从头越</string>
+</resources>
